@@ -1,0 +1,57 @@
+{
+    "us_ri_calculation": 
+        {
+            "url": "https://<storageaccountname>.blob.core.windows.net",
+            "key": "<StorageAccountKey",
+            "pcfile": "US_PartnerCenter.xlsx",
+            "cmpfile": "US_CMPFile.zip",
+            "container1": "ricalculationfile",
+            "container2": "complete",
+            "blobpc":  "US_PartnerCenter.xlsx",
+            "blobcmp":  "US_CMPFile.zip"
+        },
+    "uk_ri_calculation": 
+        {
+            "url": "https://<storageaccountname>.blob.core.windows.net",
+            "key": "<StorageAccountKey",
+            "pcfile": "UK_PartnerCenter.xlsx",
+            "cmpfile": "UK_CMPFile.zip",
+            "container1": "ricalculationfile",
+            "container2": "complete",
+            "blobpc":  "UK_PartnerCenter.xlsx",
+            "blobcmp":  "UK_CMPFile.zip"
+        },
+    "nl_ri_calculation": 
+        {
+            "url": "https://<storageaccountname>.blob.core.windows.net",
+            "key": "<StorageAccountKey",
+            "pcfile": "NL_PartnerCenter.xlsx",
+            "cmpfile": "NL_CMPFile.zip",
+            "container1": "ricalculationfile",
+            "container2": "complete",
+            "blobpc":  "NL_PartnerCenter.xlsx",
+            "blobcmp":  "NL_CMPFile.zip"
+        },
+    "ca_ri_calculation": 
+        {
+            "url": "https://<storageaccountname>.blob.core.windows.net",
+            "key": "<StorageAccountKey",
+            "pcfile": "CA_PartnerCenter.xlsx",
+            "cmpfile": "CA_CMPFile.zip",
+            "container1": "ricalculationfile",
+            "container2": "complete",
+            "blobpc":  "CA_PartnerCenter.xlsx",
+            "blobcmp":  "CA_CMPFile.zip"
+        },
+    "br_ri_calculation": 
+        {
+            "url": "https://<storageaccountname>.blob.core.windows.net",
+            "key": "<StorageAccountKey",
+            "pcfile": "BR_PartnerCenter.xlsx",
+            "cmpfile": "BR_CMPFile.zip",
+            "container1": "ricalculationfile",
+            "container2": "complete",
+            "blobpc":  "BR_PartnerCenter.xlsx",
+            "blobcmp":  "BR_CMPFile.zip"
+        }
+}
